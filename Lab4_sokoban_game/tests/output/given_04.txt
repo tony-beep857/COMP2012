@@ -1,0 +1,499 @@
+Width of the game grid? Height of the game grid? 
+How many walls to add? 
+  Wall #0: X-coordinate value?   Wall #0: Y-coordinate value?   Wall #1: X-coordinate value?   Wall #1: Y-coordinate value?   Wall #2: X-coordinate value?   Wall #2: Y-coordinate value?   Wall #3: X-coordinate value?   Wall #3: Y-coordinate value?   Wall #4: X-coordinate value?   Wall #4: Y-coordinate value?   Wall #5: X-coordinate value?   Wall #5: Y-coordinate value?   Wall #6: X-coordinate value?   Wall #6: Y-coordinate value?   Wall #7: X-coordinate value?   Wall #7: Y-coordinate value?   Wall #8: X-coordinate value?   Wall #8: Y-coordinate value?   Wall #9: X-coordinate value?   Wall #9: Y-coordinate value?   Wall #10: X-coordinate value?   Wall #10: Y-coordinate value?   Wall #11: X-coordinate value?   Wall #11: Y-coordinate value?   Wall #12: X-coordinate value?   Wall #12: Y-coordinate value?   Wall #13: X-coordinate value?   Wall #13: Y-coordinate value?   Wall #14: X-coordinate value?   Wall #14: Y-coordinate value?   Wall #15: X-coordinate value?   Wall #15: Y-coordinate value?   Wall #16: X-coordinate value?   Wall #16: Y-coordinate value?   Wall #17: X-coordinate value?   Wall #17: Y-coordinate value?   Wall #18: X-coordinate value?   Wall #18: Y-coordinate value?   Wall #19: X-coordinate value?   Wall #19: Y-coordinate value?   Wall #20: X-coordinate value?   Wall #20: Y-coordinate value?   Wall #21: X-coordinate value?   Wall #21: Y-coordinate value?   Wall #22: X-coordinate value?   Wall #22: Y-coordinate value?   Wall #23: X-coordinate value?   Wall #23: Y-coordinate value?   Wall #24: X-coordinate value?   Wall #24: Y-coordinate value?   Wall #25: X-coordinate value?   Wall #25: Y-coordinate value?   Wall #26: X-coordinate value?   Wall #26: Y-coordinate value?   Wall #27: X-coordinate value?   Wall #27: Y-coordinate value?   Wall #28: X-coordinate value?   Wall #28: Y-coordinate value?   Wall #29: X-coordinate value?   Wall #29: Y-coordinate value?   Wall #30: X-coordinate value?   Wall #30: Y-coordinate value?   Wall #31: X-coordinate value?   Wall #31: Y-coordinate value?   Wall #32: X-coordinate value?   Wall #32: Y-coordinate value?   Wall #33: X-coordinate value?   Wall #33: Y-coordinate value?   Wall #34: X-coordinate value?   Wall #34: Y-coordinate value?   Wall #35: X-coordinate value?   Wall #35: Y-coordinate value?   Wall #36: X-coordinate value?   Wall #36: Y-coordinate value?   Wall #37: X-coordinate value?   Wall #37: Y-coordinate value?   Wall #38: X-coordinate value?   Wall #38: Y-coordinate value?   Wall #39: X-coordinate value?   Wall #39: Y-coordinate value?   Wall #40: X-coordinate value?   Wall #40: Y-coordinate value?   Wall #41: X-coordinate value?   Wall #41: Y-coordinate value?   Wall #42: X-coordinate value?   Wall #42: Y-coordinate value?   Wall #43: X-coordinate value?   Wall #43: Y-coordinate value?   Wall #44: X-coordinate value?   Wall #44: Y-coordinate value?   Wall #45: X-coordinate value?   Wall #45: Y-coordinate value?   Wall #46: X-coordinate value?   Wall #46: Y-coordinate value?   Wall #47: X-coordinate value?   Wall #47: Y-coordinate value? 
+How many boxes to add? 
+  Box #0: X-coordinate value?   Box #0: Y-coordinate value?   Box #1: X-coordinate value?   Box #1: Y-coordinate value?   Box #2: X-coordinate value?   Box #2: Y-coordinate value? 
+How many doors and buttons to add? 
+  Door #0: X-coordinate value?   Door #0: Y-coordinate value?   Button #0: X-coordinate value?   Button #0: Y-coordinate value?   Door #1: X-coordinate value?   Door #1: Y-coordinate value?   Button #1: X-coordinate value?   Button #1: Y-coordinate value?   Door #2: X-coordinate value?   Door #2: Y-coordinate value?   Button #2: X-coordinate value?   Button #2: Y-coordinate value? 
+Player: X-coordinate value? Player: Y-coordinate value? 
+Flag: X-coordinate value? Flag: Y-coordinate value? 
+######################################################
+###                                    ###         ###
+###    P                          X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###       P                       X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###          P                    X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###             P                 X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                P              X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                   P           X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                      P        X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                         P     X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                            P  X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+You could not move!
+
+######################################################
+###                                    ###         ###
+###                            P  X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                            P       ###         ###
+###                               X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                               P    ###         ###
+###                               X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                  P ###         ###
+###                               X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+You could not move!
+
+######################################################
+###                                  P ###         ###
+###                               X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                               P    ###         ###
+###                               X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                            P       ###         ###
+###                               X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                            P  X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                         P     X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                      P        X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                   P           X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                P              X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###             P                 X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###          P                    X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###       P                       X [#][ ][#]!!!   ###
+###       X                            ###         ###
+###      ---      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][ ][#]!!!   ###
+###       P                            ###         ###
+###      _X_      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][ ][#]!!!   ###
+###          P                         ###         ###
+###      _X_      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][ ][#]!!!   ###
+###                                    ###         ###
+###      _X_ P    _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][ ][#]!!!   ###
+###                                    ###         ###
+###      _X_    P _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][ ][#]!!!   ###
+###                                    ###         ###
+###      _X_      _P_ X    ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][#][#]!!!   ###
+###                P                   ###         ###
+###      _X_      --- X    ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][#][#]!!!   ###
+###                   P                ###         ###
+###      _X_      --- X    ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][#][#]!!!   ###
+###                      P             ###         ###
+###      _X_      --- X    ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][#][#]!!!   ###
+###                                    ###         ###
+###      _X_      --- X  P ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][ ][#]!!!   ###
+###                                    ###         ###
+###      _X_      _X_ P    ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][ ][#]!!!   ###
+###                   P                ###         ###
+###      _X_      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][ ][#]!!!   ###
+###                      P             ###         ###
+###      _X_      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][ ][#]!!!   ###
+###                         P          ###         ###
+###      _X_      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][ ][#]!!!   ###
+###                            P       ###         ###
+###      _X_      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][ ][#]!!!   ###
+###                               P    ###         ###
+###      _X_      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [ ][ ][#]!!!   ###
+###                                  P ###         ###
+###      _X_      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               X [P][ ][#]!!!   ###
+###                                    ###         ###
+###      _X_      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                            X  P [ ][ ][#]!!!   ###
+###                                    ###         ###
+###      _X_      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                         X  P    [ ][ ][#]!!!   ###
+###                                    ###         ###
+###      _X_      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                            P       ###         ###
+###                         X       [ ][ ][#]!!!   ###
+###                                    ###         ###
+###      _X_      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                         P          ###         ###
+###                         X       [ ][ ][#]!!!   ###
+###                                    ###         ###
+###      _X_      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                         P       [ ][ ][#]!!!   ###
+###                         X          ###         ###
+###      _X_      _X_      ---      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                                 [ ][ ][ ]!!!   ###
+###                         P          ###         ###
+###      _X_      _X_      _X_      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                         P       [ ][ ][ ]!!!   ###
+###                                    ###         ###
+###      _X_      _X_      _X_      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                            P    [ ][ ][ ]!!!   ###
+###                                    ###         ###
+###      _X_      _X_      _X_      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                               P [ ][ ][ ]!!!   ###
+###                                    ###         ###
+###      _X_      _X_      _X_      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                                 [P][ ][ ]!!!   ###
+###                                    ###         ###
+###      _X_      _X_      _X_      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                                 [ ][P][ ]!!!   ###
+###                                    ###         ###
+###      _X_      _X_      _X_      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                                 [ ][ ][P]!!!   ###
+###                                    ###         ###
+###      _X_      _X_      _X_      ##################
+###                                 ###               
+#######################################               
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+######################################################
+###                                    ###         ###
+###                                 [ ][ ][ ]!P!   ###
+###                                    ###         ###
+###      _X_      _X_      _X_      ##################
+###                                 ###               
+#######################################               
+
+You won the game!

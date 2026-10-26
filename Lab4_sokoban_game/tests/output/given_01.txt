@@ -1,0 +1,90 @@
+Width of the game grid? Height of the game grid? 
+How many walls to add? 
+  Wall #0: X-coordinate value?   Wall #0: Y-coordinate value?   Wall #1: X-coordinate value?   Wall #1: Y-coordinate value?   Wall #2: X-coordinate value?   Wall #2: Y-coordinate value?   Wall #3: X-coordinate value?   Wall #3: Y-coordinate value?   Wall #4: X-coordinate value?   Wall #4: Y-coordinate value?   Wall #5: X-coordinate value?   Wall #5: Y-coordinate value?   Wall #6: X-coordinate value?   Wall #6: Y-coordinate value?   Wall #7: X-coordinate value?   Wall #7: Y-coordinate value?   Wall #8: X-coordinate value?   Wall #8: Y-coordinate value?   Wall #9: X-coordinate value?   Wall #9: Y-coordinate value?   Wall #10: X-coordinate value?   Wall #10: Y-coordinate value?   Wall #11: X-coordinate value?   Wall #11: Y-coordinate value?   Wall #12: X-coordinate value?   Wall #12: Y-coordinate value?   Wall #13: X-coordinate value?   Wall #13: Y-coordinate value?   Wall #14: X-coordinate value?   Wall #14: Y-coordinate value?   Wall #15: X-coordinate value?   Wall #15: Y-coordinate value?   Wall #16: X-coordinate value?   Wall #16: Y-coordinate value?   Wall #17: X-coordinate value?   Wall #17: Y-coordinate value?   Wall #18: X-coordinate value?   Wall #18: Y-coordinate value?   Wall #19: X-coordinate value?   Wall #19: Y-coordinate value?   Wall #20: X-coordinate value?   Wall #20: Y-coordinate value?   Wall #21: X-coordinate value?   Wall #21: Y-coordinate value?   Wall #22: X-coordinate value?   Wall #22: Y-coordinate value?   Wall #23: X-coordinate value?   Wall #23: Y-coordinate value? 
+How many boxes to add? 
+
+How many doors and buttons to add? 
+
+Player: X-coordinate value? Player: Y-coordinate value? 
+Flag: X-coordinate value? Flag: Y-coordinate value? 
+#####################
+###               ###
+###               ###
+###    P    !!!   ###
+###               ###
+###               ###
+#####################
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+#####################
+###               ###
+###    P          ###
+###         !!!   ###
+###               ###
+###               ###
+#####################
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+#####################
+###               ###
+###               ###
+###    P    !!!   ###
+###               ###
+###               ###
+#####################
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+#####################
+###               ###
+###               ###
+### P       !!!   ###
+###               ###
+###               ###
+#####################
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+#####################
+###               ###
+###               ###
+###    P    !!!   ###
+###               ###
+###               ###
+#####################
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+#####################
+###               ###
+###               ###
+###         !!!   ###
+###    P          ###
+###               ###
+#####################
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+#####################
+###               ###
+###               ###
+###    P    !!!   ###
+###               ###
+###               ###
+#####################
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+#####################
+###               ###
+###               ###
+###       P !!!   ###
+###               ###
+###               ###
+#####################
+
+What is your next move ("wasd" to move, or "q" to quit)? 
+#####################
+###               ###
+###               ###
+###         !P!   ###
+###               ###
+###               ###
+#####################
+
+You won the game!
