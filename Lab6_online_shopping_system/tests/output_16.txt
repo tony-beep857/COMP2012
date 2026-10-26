@@ -1,0 +1,33 @@
+-------------------------- SHOP DATA --------------------------
+Shop ID: 1; Associated platform ID: 1 (Cut Rate: 0%)
+- Balance: $0
+- Number of Products in Inventory: 0
+----------------------------- END -----------------------------
+
+-------------------------- SHOP DATA --------------------------
+Shop ID: 2; Associated platform ID: 1 (Cut Rate: 12.5%)
+- Balance: $0
+- Number of Products in Inventory: 0
+----------------------------- END -----------------------------
+
+-------------------------- SHOP DATA --------------------------
+Shop ID: 3; Associated platform ID: 1 (Cut Rate: 25%)
+- Balance: $0
+- Number of Products in Inventory: 0
+----------------------------- END -----------------------------
+
+------------------------ PLATFORM DATA ------------------------
+Platform ID: 1
+- Balance: $0
+- VIP Threshold: $200 (Discount rate: 85% off)
+- Subscription Fee: $50
+- Number of shops: 3
+----------------------------- END -----------------------------
+
+-------------------------- SHOPS DATA -------------------------
+Shops of Platform ID: 1
+1. Shop ID: 1 (Balance: $0)
+2. Shop ID: 2 (Balance: $0)
+3. Shop ID: 3 (Balance: $0)
+----------------------------- END -----------------------------
+

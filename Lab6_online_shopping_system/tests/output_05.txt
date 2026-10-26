@@ -1,0 +1,11 @@
+-------------------------- SHOP DATA --------------------------
+Shop ID: 0; No associated platform.
+- Balance: $0
+- Number of Products in Inventory: 0
+----------------------------- END -----------------------------
+
+------------------------ INVENTORY DATA -----------------------
+Inventory of Shop ID: 0
+- Out of stock.
+----------------------------- END -----------------------------
+

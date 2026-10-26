@@ -1,0 +1,54 @@
+----------------------- SHOP RATING DATA ----------------------
+Ratings for Shop ID: 1
+ - Rating 2; By Customer ID: 2; Score: 5
+ - Rating 1; By Customer ID: 1; Score: 5
+ - Rating 0; By Customer ID: 0; Score: 5
+----------------------------- END -----------------------------
+
+------------------------ PLATFORM DATA ------------------------
+Platform ID: 1
+- Balance: $200
+- VIP Threshold: $500 (Discount rate: 75% off)
+- Subscription Fee: $200
+- Number of shops: 1
+----------------------------- END -----------------------------
+
+-------------------------- SHOPS DATA -------------------------
+Shops of Platform ID: 1
+1. Shop ID: 1 (Balance: $800; Average Rating: 5)
+----------------------------- END -----------------------------
+
+----------------------- SHOP RATING DATA ----------------------
+Ratings for Shop ID: 1
+ - Rating 3; By Customer ID: 3; Score: 85
+ - Rating 2; By Customer ID: 2; Score: 5
+ - Rating 1; By Customer ID: 1; Score: 5
+ - Rating 0; By Customer ID: 0; Score: 5
+----------------------------- END -----------------------------
+
+------------------------ PLATFORM DATA ------------------------
+Platform ID: 1
+- Balance: $400
+- VIP Threshold: $500 (Discount rate: 75% off)
+- Subscription Fee: $200
+- Number of shops: 1
+----------------------------- END -----------------------------
+
+-------------------------- SHOPS DATA -------------------------
+Shops of Platform ID: 1
+1. Shop ID: 1 (Balance: $600; Average Rating: 25)
+----------------------------- END -----------------------------
+
+------------------------ PLATFORM DATA ------------------------
+Platform ID: 1
+- Balance: $600
+- VIP Threshold: $500 (Discount rate: 75% off)
+- Subscription Fee: $200
+- Number of shops: 0
+----------------------------- END -----------------------------
+
+-------------------------- SHOPS DATA -------------------------
+Shops of Platform ID: 1
+- Has no shops.
+----------------------------- END -----------------------------
+

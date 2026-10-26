@@ -1,0 +1,5 @@
+----------------------- SHOP RATING DATA ----------------------
+Ratings for Shop ID: 1
+ - Rating 0; By Customer ID: 2 (DELETED); Score: 25
+----------------------------- END -----------------------------
+

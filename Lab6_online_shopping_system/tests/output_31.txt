@@ -1,0 +1,68 @@
+----------------------- SHOP RATING DATA ----------------------
+Ratings for Shop ID: 10
+ - Rating 4; By Customer ID: 4; Score: 48
+ - Rating 3; By Customer ID: 3; Score: 36
+ - Rating 2; By Customer ID: 2; Score: 24
+ - Rating 1; By Customer ID: 1; Score: 12
+ - Rating 0; By Customer ID: 0; Score: 0
+----------------------------- END -----------------------------
+
+--------------------- CUSTOMER RATING DATA --------------------
+Reviews by Customer ID: 0
+ - Rating 0; For Shop ID: 10; Score: 0
+----------------------------- END -----------------------------
+
+--------------------- CUSTOMER RATING DATA --------------------
+Reviews by Customer ID: 1
+ - Rating 1; For Shop ID: 10; Score: 12
+----------------------------- END -----------------------------
+
+--------------------- CUSTOMER RATING DATA --------------------
+Reviews by Customer ID: 2
+ - Rating 2; For Shop ID: 10; Score: 24
+----------------------------- END -----------------------------
+
+--------------------- CUSTOMER RATING DATA --------------------
+Reviews by Customer ID: 3
+ - Rating 3; For Shop ID: 10; Score: 36
+----------------------------- END -----------------------------
+
+--------------------- CUSTOMER RATING DATA --------------------
+Reviews by Customer ID: 4
+ - Rating 4; For Shop ID: 10; Score: 48
+----------------------------- END -----------------------------
+
+----------------------- SHOP RATING DATA ----------------------
+Ratings for Shop ID: 10
+ - Rating 0; By Customer ID: 0; Score: 30
+ - Rating 4; By Customer ID: 4; Score: 48
+ - Rating 3; By Customer ID: 3; Score: 36
+ - Rating 2; By Customer ID: 2; Score: 24
+ - Rating 1; By Customer ID: 1; Score: 12
+----------------------------- END -----------------------------
+
+--------------------- CUSTOMER RATING DATA --------------------
+Reviews by Customer ID: 0
+ - Rating 0; For Shop ID: 10; Score: 30
+----------------------------- END -----------------------------
+
+--------------------- CUSTOMER RATING DATA --------------------
+Reviews by Customer ID: 1
+ - Rating 1; For Shop ID: 10; Score: 12
+----------------------------- END -----------------------------
+
+--------------------- CUSTOMER RATING DATA --------------------
+Reviews by Customer ID: 2
+ - Rating 2; For Shop ID: 10; Score: 24
+----------------------------- END -----------------------------
+
+--------------------- CUSTOMER RATING DATA --------------------
+Reviews by Customer ID: 3
+ - Rating 3; For Shop ID: 10; Score: 36
+----------------------------- END -----------------------------
+
+--------------------- CUSTOMER RATING DATA --------------------
+Reviews by Customer ID: 4
+ - Rating 4; For Shop ID: 10; Score: 48
+----------------------------- END -----------------------------
+

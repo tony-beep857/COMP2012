@@ -1,0 +1,11 @@
+------------------------ CUSTOMER DATA ------------------------
+Customer ID: 1
+- Balance: $0
+- Number of Products in Belongings: 0
+----------------------------- END -----------------------------
+
+----------------------- BELONGINGS DATA -----------------------
+Belongings of Customer ID: 1
+- Has no belongings.
+----------------------------- END -----------------------------
+

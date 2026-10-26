@@ -1,0 +1,24 @@
+------------------------ CUSTOMER DATA ------------------------
+Customer Data of Platform ID: 1
+- Customer ID: 1 spent $50
+Customers Total Spending: $50
+Number of VIP Customers: 0
+----------------------------- END -----------------------------
+
+------------------------ CUSTOMER DATA ------------------------
+Customer Data of Platform ID: 1
+- Customer ID: 1 spent $50
+- Customer ID: 2 spent $150
+Customers Total Spending: $200
+Number of VIP Customers: 1
+----------------------------- END -----------------------------
+
+------------------------ CUSTOMER DATA ------------------------
+Customer Data of Platform ID: 1
+- Customer ID: 1 spent $50
+- Customer ID: 2 spent $150
+- Customer ID: 3 spent $250
+Customers Total Spending: $450
+Number of VIP Customers: 2
+----------------------------- END -----------------------------
+

@@ -1,0 +1,23 @@
+------------------------ INVENTORY DATA -----------------------
+Inventory of Shop ID: 11
+ - Product ID: 1 ($32; from Shop ID 11)
+ - Product ID: 2 ($24; from Shop ID 11)
+ - Product ID: 3 ($16; from Shop ID 11)
+ - Product ID: 4 ($8; from Shop ID 11)
+ - Product ID: 5 ($0; from Shop ID 11)
+----------------------------- END -----------------------------
+
+------------------------ INVENTORY DATA -----------------------
+Inventory of Shop ID: 11
+- Out of stock.
+----------------------------- END -----------------------------
+
+------------------------ INVENTORY DATA -----------------------
+Inventory of Shop ID: 11
+ - Product ID: 1 ($32; from Shop ID 11)
+ - Product ID: 2 ($24; from Shop ID 11)
+ - Product ID: 3 ($16; from Shop ID 11)
+ - Product ID: 4 ($8; from Shop ID 11)
+ - Product ID: 5 ($0; from Shop ID 11)
+----------------------------- END -----------------------------
+

@@ -1,0 +1,8 @@
+------------------------ PLATFORM DATA ------------------------
+Platform ID: 0
+- Balance: $0
+- VIP Threshold: $100 (Discount rate: 75% off)
+- Subscription Fee: $10
+- Number of shops: 0
+----------------------------- END -----------------------------
+

@@ -1,0 +1,20 @@
+--------------------- CUSTOMER RATING DATA --------------------
+Reviews by Customer ID: 0
+ - Rating 0; For Shop ID: 1; Score: 100
+----------------------------- END -----------------------------
+
+----------------------- SHOP RATING DATA ----------------------
+Ratings for Shop ID: 1
+ - Rating 0; By Customer ID: 0; Score: 100
+----------------------------- END -----------------------------
+
+--------------------- CUSTOMER RATING DATA --------------------
+Reviews by Customer ID: 0
+ - Rating 0; For Shop ID: 1 (DELETED); Score: 100
+----------------------------- END -----------------------------
+
+----------------------- SHOP RATING DATA ----------------------
+Ratings for Shop ID: 1
+- No reviews available.
+----------------------------- END -----------------------------
+

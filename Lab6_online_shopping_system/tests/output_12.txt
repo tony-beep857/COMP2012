@@ -1,0 +1,11 @@
+------------------------ INVENTORY DATA -----------------------
+Inventory of Shop ID: 14
+ - Product ID: 0 ($10; from Shop ID 14)
+----------------------------- END -----------------------------
+
+------------------------ INVENTORY DATA -----------------------
+Inventory of Shop ID: 14
+- Out of stock.
+----------------------------- END -----------------------------
+
+ - Product ID: 0 ($10; from Shop ID 14)

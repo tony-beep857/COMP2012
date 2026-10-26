@@ -1,0 +1,2 @@
+ - Rating 0; By Customer ID: 2; For Shop ID: 3; Score: 25
+ - Rating 0; By Customer ID: 2; For Shop ID: 3; Score: 25

@@ -1,0 +1,22 @@
+------------------------ CUSTOMER DATA ------------------------
+Customer ID: 1
+- Balance: $15
+- Number of Products in Belongings: 0
+----------------------------- END -----------------------------
+
+----------------------- BELONGINGS DATA -----------------------
+Belongings of Customer ID: 1
+- Has no belongings.
+----------------------------- END -----------------------------
+
+-------------------------- SHOP DATA --------------------------
+Shop ID: 1; No associated platform.
+- Balance: $0
+- Number of Products in Inventory: 1
+----------------------------- END -----------------------------
+
+------------------------ INVENTORY DATA -----------------------
+Inventory of Shop ID: 1
+ - Product ID: 0 ($15; from Shop ID 1)
+----------------------------- END -----------------------------
+

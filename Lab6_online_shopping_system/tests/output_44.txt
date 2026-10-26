@@ -1,0 +1,17 @@
+------------------------ PLATFORM DATA ------------------------
+Platform ID: 1
+- Balance: $250
+- VIP Threshold: $100 (Discount rate: 75% off)
+- Subscription Fee: $50
+- Number of shops: 5
+----------------------------- END -----------------------------
+
+-------------------------- SHOPS DATA -------------------------
+Shops of Platform ID: 1
+1. Shop ID: 1 (Balance: $150; Average Rating: 50)
+2. Shop ID: 4 (Balance: $150; Average Rating: 25)
+3. Shop ID: 3 (Balance: $150; Average Rating: 10)
+4. Shop ID: 0 (Balance: $150; Average Rating: 5)
+5. Shop ID: 2 (Balance: $150; Average Rating: -1)
+----------------------------- END -----------------------------
+

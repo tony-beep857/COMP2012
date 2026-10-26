@@ -1,0 +1,14 @@
+------------------------ INVENTORY DATA -----------------------
+Inventory of Shop ID: 12
+ - Product ID: 2 ($10; from Shop ID 12)
+ - Product ID: 3 ($5; from Shop ID 12)
+ - Product ID: 4 ($0; from Shop ID 12)
+----------------------------- END -----------------------------
+
+------------------------ INVENTORY DATA -----------------------
+Inventory of Shop ID: 12
+ - Product ID: 2 ($10; from Shop ID 12)
+ - Product ID: 3 ($5; from Shop ID 12)
+ - Product ID: 4 ($0; from Shop ID 12)
+----------------------------- END -----------------------------
+

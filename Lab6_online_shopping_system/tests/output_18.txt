@@ -1,0 +1,12 @@
+------------------------ CUSTOMER DATA ------------------------
+Customer Data of Platform ID: 1
+- Has no customer data.
+----------------------------- END -----------------------------
+
+------------------------ CUSTOMER DATA ------------------------
+Customer Data of Platform ID: 1
+- Customer ID: 1 spent $50
+Customers Total Spending: $50
+Number of VIP Customers: 0
+----------------------------- END -----------------------------
+

@@ -1,0 +1,35 @@
+------------------------ INVENTORY DATA -----------------------
+Inventory of Shop ID: 23
+ - Product ID: 1 ($30; from Shop ID 23)
+----------------------------- END -----------------------------
+
+------------------------ INVENTORY DATA -----------------------
+Inventory of Shop ID: 23
+ - Product ID: 1 ($30; from Shop ID 23)
+ - Product ID: 3 ($20; from Shop ID 23)
+----------------------------- END -----------------------------
+
+------------------------ INVENTORY DATA -----------------------
+Inventory of Shop ID: 23
+ - Product ID: 0 ($10; from Shop ID 23)
+ - Product ID: 1 ($30; from Shop ID 23)
+ - Product ID: 3 ($20; from Shop ID 23)
+----------------------------- END -----------------------------
+
+------------------------ INVENTORY DATA -----------------------
+Inventory of Shop ID: 23
+ - Product ID: 0 ($10; from Shop ID 23)
+ - Product ID: 1 ($30; from Shop ID 23)
+ - Product ID: 3 ($20; from Shop ID 23)
+ - Product ID: 4 ($50; from Shop ID 23)
+----------------------------- END -----------------------------
+
+------------------------ INVENTORY DATA -----------------------
+Inventory of Shop ID: 23
+ - Product ID: 0 ($10; from Shop ID 23)
+ - Product ID: 1 ($30; from Shop ID 23)
+ - Product ID: 2 ($40; from Shop ID 23)
+ - Product ID: 3 ($20; from Shop ID 23)
+ - Product ID: 4 ($50; from Shop ID 23)
+----------------------------- END -----------------------------
+
