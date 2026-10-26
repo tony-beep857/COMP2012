@@ -1,0 +1,462 @@
+How many cards do you want to enter? 
+Data for card #0:
+  Card Name (no whitespaces)?   Card Type (0-2)?   Card Potency?   Card Cost? 
+Data for card #1:
+  Card Name (no whitespaces)?   Card Type (0-2)?   Card Potency?   Card Cost? 
+Data for card #2:
+  Card Name (no whitespaces)?   Card Type (0-2)?   Card Potency?   Card Cost? 
+Data for card #3:
+  Card Name (no whitespaces)?   Card Type (0-2)?   Card Potency?   Card Cost? 
+Data for card #4:
+  Card Name (no whitespaces)?   Card Type (0-2)?   Card Potency?   Card Cost? 
+Data for card #5:
+  Card Name (no whitespaces)?   Card Type (0-2)?   Card Potency?   Card Cost? 
+Data for card #6:
+  Card Name (no whitespaces)?   Card Type (0-2)?   Card Potency?   Card Cost? 
+How many cards do you want to add to the Player's Deck? 
+  Card #0: Index of card (0-6)?   Card #1: Index of card (0-6)?   Card #2: Index of card (0-6)?   Card #3: Index of card (0-6)?   Card #4: Index of card (0-6)?   Card #5: Index of card (0-6)?   Card #6: Index of card (0-6)?   Card #7: Index of card (0-6)?   Card #8: Index of card (0-6)?   Card #9: Index of card (0-6)?   Card #10: Index of card (0-6)?   Card #11: Index of card (0-6)?   Card #12: Index of card (0-6)?   Card #13: Index of card (0-6)?   Card #14: Index of card (0-6)?   Card #15: Index of card (0-6)?   Card #16: Index of card (0-6)?   Card #17: Index of card (0-6)?   Card #18: Index of card (0-6)?   Card #19: Index of card (0-6)? 
+How many cards do you want to add to the Enemy's Deck? 
+  Card #0: Index of card (0-6)?   Card #1: Index of card (0-6)?   Card #2: Index of card (0-6)?   Card #3: Index of card (0-6)? 
+Player's Turn:
+
+Hand Setup:
+  Drew Skim.
+  Drew Shiv.
+  Drew Shiv.
+  Drew Strike.
+  Drew Defend.
+
+Current Game State:
+  Player - Health: 100, Block: 0, 
+  Enemy - Health: 50, Block: 0, 
+  Enemy's Next Turn: Super_Defend - Gain 50 block.
+  Remaining Energy: 3
+
+Current Hand:
+  [0] Skim (1 cost) - Draw 3 card(s).
+  [1] Shiv (0 cost) - Deal 4 damage.
+  [2] Shiv (0 cost) - Deal 4 damage.
+  [3] Strike (1 cost) - Deal 7 damage.
+  [4] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Shiv!
+  Discarded Shiv.
+  You dealt 4 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 100, Block: 0, 
+  Enemy - Health: 46, Block: 0, 
+  Enemy's Next Turn: Super_Defend - Gain 50 block.
+  Remaining Energy: 3
+
+Current Hand:
+  [0] Skim (1 cost) - Draw 3 card(s).
+  [1] Shiv (0 cost) - Deal 4 damage.
+  [2] Strike (1 cost) - Deal 7 damage.
+  [3] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Strike!
+  Discarded Strike.
+  You dealt 7 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 100, Block: 0, 
+  Enemy - Health: 39, Block: 0, 
+  Enemy's Next Turn: Super_Defend - Gain 50 block.
+  Remaining Energy: 2
+
+Current Hand:
+  [0] Skim (1 cost) - Draw 3 card(s).
+  [1] Shiv (0 cost) - Deal 4 damage.
+  [2] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Defend!
+  Discarded Defend.
+  You gained 5 block!
+
+Current Game State:
+  Player - Health: 100, Block: 5, 
+  Enemy - Health: 39, Block: 0, 
+  Enemy's Next Turn: Super_Defend - Gain 50 block.
+  Remaining Energy: 1
+
+Current Hand:
+  [0] Skim (1 cost) - Draw 3 card(s).
+  [1] Shiv (0 cost) - Deal 4 damage.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Shiv!
+  Discarded Shiv.
+  You dealt 4 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 100, Block: 5, 
+  Enemy - Health: 35, Block: 0, 
+  Enemy's Next Turn: Super_Defend - Gain 50 block.
+  Remaining Energy: 1
+
+Current Hand:
+  [0] Skim (1 cost) - Draw 3 card(s).
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+Enemy's Turn:
+  The Enemy gained 50 block!
+
+Player's Turn:
+
+Hand Setup:
+  Discarded Skim.
+  Drew Bludgeon.
+  Drew Skim.
+  Drew Defend.
+  Drew Defend.
+  Drew Shiv.
+
+Current Game State:
+  Player - Health: 100, Block: 5, 
+  Enemy - Health: 35, Block: 50, 
+  Enemy's Next Turn: Super_Strike - Deal 50 damage.
+  Remaining Energy: 3
+
+Current Hand:
+  [0] Bludgeon (3 cost) - Deal 32 damage.
+  [1] Skim (1 cost) - Draw 3 card(s).
+  [2] Defend (1 cost) - Gain 5 block.
+  [3] Defend (1 cost) - Gain 5 block.
+  [4] Shiv (0 cost) - Deal 4 damage.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Shiv!
+  Discarded Shiv.
+  You dealt 0 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 100, Block: 5, 
+  Enemy - Health: 35, Block: 46, 
+  Enemy's Next Turn: Super_Strike - Deal 50 damage.
+  Remaining Energy: 3
+
+Current Hand:
+  [0] Bludgeon (3 cost) - Deal 32 damage.
+  [1] Skim (1 cost) - Draw 3 card(s).
+  [2] Defend (1 cost) - Gain 5 block.
+  [3] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Bludgeon!
+  Discarded Bludgeon.
+  You dealt 0 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 100, Block: 5, 
+  Enemy - Health: 35, Block: 14, 
+  Enemy's Next Turn: Super_Strike - Deal 50 damage.
+  Remaining Energy: 0
+
+Current Hand:
+  [0] Skim (1 cost) - Draw 3 card(s).
+  [1] Defend (1 cost) - Gain 5 block.
+  [2] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+Enemy's Turn:
+  The Enemy dealt 45 damage to you!
+
+Player's Turn:
+
+Hand Setup:
+  Discarded Skim.
+  Discarded Defend.
+  Discarded Defend.
+  Drew Skim.
+  Drew Strike.
+  Drew Strike.
+  Drew Skim.
+  Drew Shiv.
+
+Current Game State:
+  Player - Health: 55, Block: 0, 
+  Enemy - Health: 35, Block: 14, 
+  Enemy's Next Turn: Defend - Gain 5 block.
+  Remaining Energy: 3
+
+Current Hand:
+  [0] Skim (1 cost) - Draw 3 card(s).
+  [1] Strike (1 cost) - Deal 7 damage.
+  [2] Strike (1 cost) - Deal 7 damage.
+  [3] Skim (1 cost) - Draw 3 card(s).
+  [4] Shiv (0 cost) - Deal 4 damage.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Strike!
+  Discarded Strike.
+  You dealt 0 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 55, Block: 0, 
+  Enemy - Health: 35, Block: 7, 
+  Enemy's Next Turn: Defend - Gain 5 block.
+  Remaining Energy: 2
+
+Current Hand:
+  [0] Skim (1 cost) - Draw 3 card(s).
+  [1] Strike (1 cost) - Deal 7 damage.
+  [2] Skim (1 cost) - Draw 3 card(s).
+  [3] Shiv (0 cost) - Deal 4 damage.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Strike!
+  Discarded Strike.
+  You dealt 0 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 55, Block: 0, 
+  Enemy - Health: 35, Block: 0, 
+  Enemy's Next Turn: Defend - Gain 5 block.
+  Remaining Energy: 1
+
+Current Hand:
+  [0] Skim (1 cost) - Draw 3 card(s).
+  [1] Skim (1 cost) - Draw 3 card(s).
+  [2] Shiv (0 cost) - Deal 4 damage.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Shiv!
+  Discarded Shiv.
+  You dealt 4 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 55, Block: 0, 
+  Enemy - Health: 31, Block: 0, 
+  Enemy's Next Turn: Defend - Gain 5 block.
+  Remaining Energy: 1
+
+Current Hand:
+  [0] Skim (1 cost) - Draw 3 card(s).
+  [1] Skim (1 cost) - Draw 3 card(s).
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Skim!
+  Discarded Skim.
+  You drew 3 card(s)!
+  Drew Strike.
+  Drew Defend.
+  Drew Bludgeon.
+
+Current Game State:
+  Player - Health: 55, Block: 0, 
+  Enemy - Health: 31, Block: 0, 
+  Enemy's Next Turn: Defend - Gain 5 block.
+  Remaining Energy: 0
+
+Current Hand:
+  [0] Skim (1 cost) - Draw 3 card(s).
+  [1] Strike (1 cost) - Deal 7 damage.
+  [2] Defend (1 cost) - Gain 5 block.
+  [3] Bludgeon (3 cost) - Deal 32 damage.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+Enemy's Turn:
+  The Enemy gained 5 block!
+
+Player's Turn:
+
+Hand Setup:
+  Discarded Skim.
+  Discarded Strike.
+  Discarded Defend.
+  Discarded Bludgeon.
+  Drew Strike.
+  Drew Strike.
+  Draw Pile is empty, reshuffling the Deck...
+  Drew Shiv.
+  Drew Strike.
+  Drew Defend.
+
+Current Game State:
+  Player - Health: 55, Block: 0, 
+  Enemy - Health: 31, Block: 5, 
+  Enemy's Next Turn: Super_Strike - Deal 50 damage.
+  Remaining Energy: 3
+
+Current Hand:
+  [0] Strike (1 cost) - Deal 7 damage.
+  [1] Strike (1 cost) - Deal 7 damage.
+  [2] Shiv (0 cost) - Deal 4 damage.
+  [3] Strike (1 cost) - Deal 7 damage.
+  [4] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Shiv!
+  Discarded Shiv.
+  You dealt 0 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 55, Block: 0, 
+  Enemy - Health: 31, Block: 1, 
+  Enemy's Next Turn: Super_Strike - Deal 50 damage.
+  Remaining Energy: 3
+
+Current Hand:
+  [0] Strike (1 cost) - Deal 7 damage.
+  [1] Strike (1 cost) - Deal 7 damage.
+  [2] Strike (1 cost) - Deal 7 damage.
+  [3] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Strike!
+  Discarded Strike.
+  You dealt 6 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 55, Block: 0, 
+  Enemy - Health: 25, Block: 0, 
+  Enemy's Next Turn: Super_Strike - Deal 50 damage.
+  Remaining Energy: 2
+
+Current Hand:
+  [0] Strike (1 cost) - Deal 7 damage.
+  [1] Strike (1 cost) - Deal 7 damage.
+  [2] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Strike!
+  Discarded Strike.
+  You dealt 7 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 55, Block: 0, 
+  Enemy - Health: 18, Block: 0, 
+  Enemy's Next Turn: Super_Strike - Deal 50 damage.
+  Remaining Energy: 1
+
+Current Hand:
+  [0] Strike (1 cost) - Deal 7 damage.
+  [1] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Strike!
+  Discarded Strike.
+  You dealt 7 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 55, Block: 0, 
+  Enemy - Health: 11, Block: 0, 
+  Enemy's Next Turn: Super_Strike - Deal 50 damage.
+  Remaining Energy: 0
+
+Current Hand:
+  [0] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+Enemy's Turn:
+  The Enemy dealt 50 damage to you!
+
+Player's Turn:
+
+Hand Setup:
+  Discarded Defend.
+  Drew Shiv.
+  Drew Skim.
+  Drew Shiv.
+  Drew Bludgeon.
+  Drew Skim.
+
+Current Game State:
+  Player - Health: 5, Block: 0, 
+  Enemy - Health: 11, Block: 0, 
+  Enemy's Next Turn: Super_Defend - Gain 50 block.
+  Remaining Energy: 3
+
+Current Hand:
+  [0] Shiv (0 cost) - Deal 4 damage.
+  [1] Skim (1 cost) - Draw 3 card(s).
+  [2] Shiv (0 cost) - Deal 4 damage.
+  [3] Bludgeon (3 cost) - Deal 32 damage.
+  [4] Skim (1 cost) - Draw 3 card(s).
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Bludgeon!
+  Discarded Bludgeon.
+  You dealt 32 damage to the Enemy!
+
+You defeated the Enemy!

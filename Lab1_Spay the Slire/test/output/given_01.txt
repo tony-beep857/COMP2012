@@ -1,0 +1,406 @@
+How many cards do you want to enter? 
+Data for card #0:
+  Card Name (no whitespaces)?   Card Type (0-2)?   Card Potency?   Card Cost? 
+Data for card #1:
+  Card Name (no whitespaces)?   Card Type (0-2)?   Card Potency?   Card Cost? 
+Data for card #2:
+  Card Name (no whitespaces)?   Card Type (0-2)?   Card Potency?   Card Cost? 
+Data for card #3:
+  Card Name (no whitespaces)?   Card Type (0-2)?   Card Potency?   Card Cost? 
+Data for card #4:
+  Card Name (no whitespaces)?   Card Type (0-2)?   Card Potency?   Card Cost? 
+How many cards do you want to add to the Player's Deck? 
+  Card #0: Index of card (0-4)?   Card #1: Index of card (0-4)?   Card #2: Index of card (0-4)?   Card #3: Index of card (0-4)?   Card #4: Index of card (0-4)?   Card #5: Index of card (0-4)?   Card #6: Index of card (0-4)?   Card #7: Index of card (0-4)?   Card #8: Index of card (0-4)?   Card #9: Index of card (0-4)?   Card #10: Index of card (0-4)?   Card #11: Index of card (0-4)?   Card #12: Index of card (0-4)?   Card #13: Index of card (0-4)?   Card #14: Index of card (0-4)?   Card #15: Index of card (0-4)?   Card #16: Index of card (0-4)?   Card #17: Index of card (0-4)?   Card #18: Index of card (0-4)?   Card #19: Index of card (0-4)? 
+How many cards do you want to add to the Enemy's Deck? 
+  Card #0: Index of card (0-4)?   Card #1: Index of card (0-4)?   Card #2: Index of card (0-4)? 
+Player's Turn:
+
+Hand Setup:
+  Drew Strike.
+  Drew Strike.
+  Drew Strike.
+  Drew Strike.
+  Drew Defend.
+
+Current Game State:
+  Player - Health: 100, Block: 0, 
+  Enemy - Health: 50, Block: 0, 
+  Enemy's Next Turn: Strike - Deal 7 damage.
+  Remaining Energy: 3
+
+Current Hand:
+  [0] Strike (1 cost) - Deal 7 damage.
+  [1] Strike (1 cost) - Deal 7 damage.
+  [2] Strike (1 cost) - Deal 7 damage.
+  [3] Strike (1 cost) - Deal 7 damage.
+  [4] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Defend!
+  Discarded Defend.
+  You gained 5 block!
+
+Current Game State:
+  Player - Health: 100, Block: 5, 
+  Enemy - Health: 50, Block: 0, 
+  Enemy's Next Turn: Strike - Deal 7 damage.
+  Remaining Energy: 2
+
+Current Hand:
+  [0] Strike (1 cost) - Deal 7 damage.
+  [1] Strike (1 cost) - Deal 7 damage.
+  [2] Strike (1 cost) - Deal 7 damage.
+  [3] Strike (1 cost) - Deal 7 damage.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Strike!
+  Discarded Strike.
+  You dealt 7 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 100, Block: 5, 
+  Enemy - Health: 43, Block: 0, 
+  Enemy's Next Turn: Strike - Deal 7 damage.
+  Remaining Energy: 1
+
+Current Hand:
+  [0] Strike (1 cost) - Deal 7 damage.
+  [1] Strike (1 cost) - Deal 7 damage.
+  [2] Strike (1 cost) - Deal 7 damage.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Strike!
+  Discarded Strike.
+  You dealt 7 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 100, Block: 5, 
+  Enemy - Health: 36, Block: 0, 
+  Enemy's Next Turn: Strike - Deal 7 damage.
+  Remaining Energy: 0
+
+Current Hand:
+  [0] Strike (1 cost) - Deal 7 damage.
+  [1] Strike (1 cost) - Deal 7 damage.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+Enemy's Turn:
+  The Enemy dealt 2 damage to you!
+
+Player's Turn:
+
+Hand Setup:
+  Discarded Strike.
+  Discarded Strike.
+  Drew Defend.
+  Drew Defend.
+  Drew Defend.
+  Drew Skim.
+  Drew Skim.
+
+Current Game State:
+  Player - Health: 98, Block: 0, 
+  Enemy - Health: 36, Block: 0, 
+  Enemy's Next Turn: Defend - Gain 5 block.
+  Remaining Energy: 3
+
+Current Hand:
+  [0] Defend (1 cost) - Gain 5 block.
+  [1] Defend (1 cost) - Gain 5 block.
+  [2] Defend (1 cost) - Gain 5 block.
+  [3] Skim (1 cost) - Draw 3 card(s).
+  [4] Skim (1 cost) - Draw 3 card(s).
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Skim!
+  Discarded Skim.
+  You drew 3 card(s)!
+  Drew Skim.
+  Drew Skim.
+  Drew Shiv.
+
+Current Game State:
+  Player - Health: 98, Block: 0, 
+  Enemy - Health: 36, Block: 0, 
+  Enemy's Next Turn: Defend - Gain 5 block.
+  Remaining Energy: 2
+
+Current Hand:
+  [0] Defend (1 cost) - Gain 5 block.
+  [1] Defend (1 cost) - Gain 5 block.
+  [2] Defend (1 cost) - Gain 5 block.
+  [3] Skim (1 cost) - Draw 3 card(s).
+  [4] Skim (1 cost) - Draw 3 card(s).
+  [5] Skim (1 cost) - Draw 3 card(s).
+  [6] Shiv (0 cost) - Deal 4 damage.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Skim!
+  Discarded Skim.
+  You drew 3 card(s)!
+  Drew Shiv.
+  Drew Shiv.
+  Drew Shiv.
+
+Current Game State:
+  Player - Health: 98, Block: 0, 
+  Enemy - Health: 36, Block: 0, 
+  Enemy's Next Turn: Defend - Gain 5 block.
+  Remaining Energy: 1
+
+Current Hand:
+  [0] Defend (1 cost) - Gain 5 block.
+  [1] Defend (1 cost) - Gain 5 block.
+  [2] Defend (1 cost) - Gain 5 block.
+  [3] Skim (1 cost) - Draw 3 card(s).
+  [4] Skim (1 cost) - Draw 3 card(s).
+  [5] Shiv (0 cost) - Deal 4 damage.
+  [6] Shiv (0 cost) - Deal 4 damage.
+  [7] Shiv (0 cost) - Deal 4 damage.
+  [8] Shiv (0 cost) - Deal 4 damage.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+Enemy's Turn:
+  The Enemy gained 5 block!
+
+Player's Turn:
+
+Hand Setup:
+  Discarded Defend.
+  Discarded Defend.
+  Discarded Defend.
+  Discarded Skim.
+  Discarded Skim.
+  Discarded Shiv.
+  Discarded Shiv.
+  Discarded Shiv.
+  Discarded Shiv.
+  Drew Bludgeon.
+  Drew Bludgeon.
+  Drew Bludgeon.
+  Drew Bludgeon.
+  Draw Pile is empty, reshuffling the Deck...
+  Drew Defend.
+
+Current Game State:
+  Player - Health: 98, Block: 0, 
+  Enemy - Health: 36, Block: 5, 
+  Enemy's Next Turn: Strike - Deal 7 damage.
+  Remaining Energy: 3
+
+Current Hand:
+  [0] Bludgeon (3 cost) - Deal 32 damage.
+  [1] Bludgeon (3 cost) - Deal 32 damage.
+  [2] Bludgeon (3 cost) - Deal 32 damage.
+  [3] Bludgeon (3 cost) - Deal 32 damage.
+  [4] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Bludgeon!
+  Discarded Bludgeon.
+  You dealt 27 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 98, Block: 0, 
+  Enemy - Health: 9, Block: 0, 
+  Enemy's Next Turn: Strike - Deal 7 damage.
+  Remaining Energy: 0
+
+Current Hand:
+  [0] Bludgeon (3 cost) - Deal 32 damage.
+  [1] Bludgeon (3 cost) - Deal 32 damage.
+  [2] Bludgeon (3 cost) - Deal 32 damage.
+  [3] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+Invalid input.
+
+Current Game State:
+  Player - Health: 98, Block: 0, 
+  Enemy - Health: 9, Block: 0, 
+  Enemy's Next Turn: Strike - Deal 7 damage.
+  Remaining Energy: 0
+
+Current Hand:
+  [0] Bludgeon (3 cost) - Deal 32 damage.
+  [1] Bludgeon (3 cost) - Deal 32 damage.
+  [2] Bludgeon (3 cost) - Deal 32 damage.
+  [3] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+Invalid input.
+
+Current Game State:
+  Player - Health: 98, Block: 0, 
+  Enemy - Health: 9, Block: 0, 
+  Enemy's Next Turn: Strike - Deal 7 damage.
+  Remaining Energy: 0
+
+Current Hand:
+  [0] Bludgeon (3 cost) - Deal 32 damage.
+  [1] Bludgeon (3 cost) - Deal 32 damage.
+  [2] Bludgeon (3 cost) - Deal 32 damage.
+  [3] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+Invalid input.
+
+Current Game State:
+  Player - Health: 98, Block: 0, 
+  Enemy - Health: 9, Block: 0, 
+  Enemy's Next Turn: Strike - Deal 7 damage.
+  Remaining Energy: 0
+
+Current Hand:
+  [0] Bludgeon (3 cost) - Deal 32 damage.
+  [1] Bludgeon (3 cost) - Deal 32 damage.
+  [2] Bludgeon (3 cost) - Deal 32 damage.
+  [3] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You do not have enough energy to play this card.
+
+Current Game State:
+  Player - Health: 98, Block: 0, 
+  Enemy - Health: 9, Block: 0, 
+  Enemy's Next Turn: Strike - Deal 7 damage.
+  Remaining Energy: 0
+
+Current Hand:
+  [0] Bludgeon (3 cost) - Deal 32 damage.
+  [1] Bludgeon (3 cost) - Deal 32 damage.
+  [2] Bludgeon (3 cost) - Deal 32 damage.
+  [3] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You do not have enough energy to play this card.
+
+Current Game State:
+  Player - Health: 98, Block: 0, 
+  Enemy - Health: 9, Block: 0, 
+  Enemy's Next Turn: Strike - Deal 7 damage.
+  Remaining Energy: 0
+
+Current Hand:
+  [0] Bludgeon (3 cost) - Deal 32 damage.
+  [1] Bludgeon (3 cost) - Deal 32 damage.
+  [2] Bludgeon (3 cost) - Deal 32 damage.
+  [3] Defend (1 cost) - Gain 5 block.
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+Enemy's Turn:
+  The Enemy dealt 7 damage to you!
+
+Player's Turn:
+
+Hand Setup:
+  Discarded Bludgeon.
+  Discarded Bludgeon.
+  Discarded Bludgeon.
+  Discarded Defend.
+  Drew Strike.
+  Drew Strike.
+  Drew Strike.
+  Drew Strike.
+  Drew Skim.
+
+Current Game State:
+  Player - Health: 91, Block: 0, 
+  Enemy - Health: 9, Block: 0, 
+  Enemy's Next Turn: Strike - Deal 7 damage.
+  Remaining Energy: 3
+
+Current Hand:
+  [0] Strike (1 cost) - Deal 7 damage.
+  [1] Strike (1 cost) - Deal 7 damage.
+  [2] Strike (1 cost) - Deal 7 damage.
+  [3] Strike (1 cost) - Deal 7 damage.
+  [4] Skim (1 cost) - Draw 3 card(s).
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Strike!
+  Discarded Strike.
+  You dealt 7 damage to the Enemy!
+
+Current Game State:
+  Player - Health: 91, Block: 0, 
+  Enemy - Health: 2, Block: 0, 
+  Enemy's Next Turn: Strike - Deal 7 damage.
+  Remaining Energy: 2
+
+Current Hand:
+  [0] Strike (1 cost) - Deal 7 damage.
+  [1] Strike (1 cost) - Deal 7 damage.
+  [2] Strike (1 cost) - Deal 7 damage.
+  [3] Skim (1 cost) - Draw 3 card(s).
+
+Other Options:
+  [e] End your turn.
+  [q] Quit the game.
+
+What do you want to do? 
+You played Strike!
+  Discarded Strike.
+  You dealt 7 damage to the Enemy!
+
+You defeated the Enemy!

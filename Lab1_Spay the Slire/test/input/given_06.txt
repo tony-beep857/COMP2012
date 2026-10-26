@@ -1,0 +1,21 @@
+7
+Strike 0 7 1
+Defend 1 5 1
+Skim 2 3 1
+Shiv 0 4 0
+Bludgeon 0 32 3
+Super_Strike 0 50 0
+Super_Defend 1 50 0
+
+20
+2 3 3 0 1 4 2 1 1 3
+2 0 0 2 3 0 1 4 0 0
+
+4
+6 5 1 5
+
+1 2 2 1 e
+4 0 e
+1 1 2 1 e
+2 1 0 0 e
+3
