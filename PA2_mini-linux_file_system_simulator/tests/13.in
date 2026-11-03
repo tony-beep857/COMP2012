@@ -1,0 +1,7 @@
+root
+root
+touch /home
+touch taxman.txt
+touch taxman.txt
+ls -a -l
+shutdown

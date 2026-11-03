@@ -1,0 +1,6 @@
+root
+root
+mkdir -p ../home/revolver ../home/abbey_road
+touch ../home/revolver/taxman.txt /home/abbey_road/here_comes_the_sun.txt
+ls -R /home/
+shutdown

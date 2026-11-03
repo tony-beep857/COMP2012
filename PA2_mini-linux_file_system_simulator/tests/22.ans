@@ -1,0 +1,6 @@
+login: Logging in as root@pa2.comp2012.ust.hk...
+Please enter the password: root:/root$ root:/root$ root:/root$ root:/root$ drwxr-xr-x root root 32 revolver
+---------- root root  0 yellow_submarine.txt
+root:/root$ root:/root$ drwxrwxr-x root root 32 revolver
+-rwxrwxr-x root root  0 yellow_submarine.txt
+root:/root$ 

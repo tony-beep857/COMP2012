@@ -1,0 +1,18 @@
+login: Logging in as root@pa2.comp2012.ust.hk...
+Please enter the password: root:/root$ dev
+null
+stdin
+stdout
+home
+root
+root:/root$ root:
+
+home:
+
+dev:
+null
+stdin
+stdout
+
+root:/root$ ls: 'abbey_road': No such file or directory
+root:/root$ 

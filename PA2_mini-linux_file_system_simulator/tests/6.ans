@@ -1,0 +1,16 @@
+login: Logging in as root@pa2.comp2012.ust.hk...
+Please enter the password: root:/root$ dev
+home
+root
+root:/root$ null
+stdin
+stdout
+root:/root$ null
+stdin
+stdout
+root:/root$ drwxr-xr-x root root 96 .
+drwxr-xr-x root root 96 ..
+crwxr-xr-x root root  0 null
+crwxr-xr-x root root  0 stdin
+crwxr-xr-x root root  0 stdout
+root:/root$ 

@@ -1,0 +1,9 @@
+root
+root
+mkdir revolver
+touch revolver/yellow_submarine.txt
+chmod 000 revolver/yellow_submarine.txt
+ls -l -R
+chmod -R 775 revolver
+ls -l -R
+shutdown

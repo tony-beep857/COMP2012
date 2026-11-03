@@ -1,0 +1,8 @@
+root
+root
+mkdir /home/abbey_road
+touch ../home/abbey_road/octopus_garden.txt
+rm ../home/abbey_road
+rm -r ../home/abbey_road
+ls -a /home
+shutdown

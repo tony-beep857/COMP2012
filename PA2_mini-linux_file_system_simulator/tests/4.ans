@@ -1,0 +1,3 @@
+login: Logging in as root@pa2.comp2012.ust.hk...
+Please enter the password: root:/root$ New password: root:/root$ su: 'george': No such user or group
+root:/root$ Password: john:/root$ 

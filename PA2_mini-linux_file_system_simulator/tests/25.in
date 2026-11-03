@@ -1,0 +1,8 @@
+root
+root
+touch taxman.txt
+cp taxman.txt /dev/stdin
+cp /dev/stdout taxman.txt 
+cp /dev/null taxman.txt
+cat taxman.txt
+shutdown

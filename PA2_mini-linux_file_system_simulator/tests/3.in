@@ -1,0 +1,8 @@
+root
+root
+adduser john
+123456
+adduser george
+654321
+groupadd beatles
+shutdown

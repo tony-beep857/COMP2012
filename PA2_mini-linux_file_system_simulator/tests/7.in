@@ -1,0 +1,6 @@
+root
+root
+ls -R /
+ls /root /home /dev
+ls ../abbey_road
+shutdown

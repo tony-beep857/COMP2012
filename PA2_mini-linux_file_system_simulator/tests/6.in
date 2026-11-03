@@ -1,0 +1,7 @@
+root
+root
+ls /
+ls /dev
+ls ../dev
+ls -a -l /dev
+shutdown

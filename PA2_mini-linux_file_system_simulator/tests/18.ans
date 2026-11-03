@@ -1,0 +1,4 @@
+login: Logging in as root@pa2.comp2012.ust.hk...
+Please enter the password: root:/root$ root:/root$ -rwxr-xr-x root root 0 taxman.txt
+root:/root$ root:/root$ root:/root$ rm: 'taxman.txt': No such file or directory
+root:/root$ 

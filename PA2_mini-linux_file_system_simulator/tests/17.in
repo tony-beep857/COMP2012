@@ -1,0 +1,7 @@
+root
+root
+cd ../../../..
+mkdir -p /home/abbey_road
+cd home/abbey_road
+cd ../revolver
+shutdown

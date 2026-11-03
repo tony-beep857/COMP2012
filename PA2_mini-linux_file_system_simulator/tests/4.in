@@ -1,0 +1,8 @@
+root
+root
+adduser john
+123456
+su george
+su john
+123456
+shutdown

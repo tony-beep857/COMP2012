@@ -1,0 +1,5 @@
+root
+root
+cp revolver revolver2
+chmod 775 yellow_submarine
+shutdown

@@ -1,0 +1,5 @@
+login: Logging in as root@pa2.comp2012.ust.hk...
+Please enter the password: root:/root$ root:/root$ cp: 'stdin': Permission denied
+root:/root$ cp: 'stdout': Permission denied
+root:/root$ root:/root$ 
+root:/root$ 

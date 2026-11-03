@@ -1,0 +1,6 @@
+root
+root
+touch taxman.txt
+ls -l
+cat taxman.txt
+shutdown

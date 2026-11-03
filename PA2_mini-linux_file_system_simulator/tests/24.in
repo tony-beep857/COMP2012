@@ -1,0 +1,9 @@
+root
+root
+cp /dev/stdin taxman.txt
+Let me tell you how it will be
+cat taxman.txt
+cp taxman.txt /dev/stdout
+cp taxman.txt /dev/null
+ls -l /dev
+shutdown

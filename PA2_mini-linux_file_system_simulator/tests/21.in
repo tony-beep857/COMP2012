@@ -1,0 +1,9 @@
+root
+root
+mkdir /home/abbey_road
+touch ../home/abbey_road/octopus_garden.txt
+mkdir fav
+cp ../home/abbey_road fav
+cp -r ../home/abbey_road fav
+ls fav
+shutdown

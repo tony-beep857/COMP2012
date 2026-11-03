@@ -1,0 +1,7 @@
+login: Logging in as root@pa2.comp2012.ust.hk...
+Please enter the password: root:/root$ root:/root$ Let me tell you how it will be
+root:/root$ Let me tell you how it will be
+root:/root$ root:/root$ crwxr-xr-x root root 0 null
+crwxr-xr-x root root 0 stdin
+crwxr-xr-x root root 0 stdout
+root:/root$ 

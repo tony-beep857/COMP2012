@@ -1,0 +1,4 @@
+login: Logging in as root@pa2.comp2012.ust.hk...
+Please enter the password: root:/root$ cat: 'root': Not a file
+root:/root$ cat: 'yellow_submarine': No such file or directory
+root:/root$ 

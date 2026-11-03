@@ -1,0 +1,12 @@
+root
+root
+adduser john
+123456
+adduser george
+654321
+groupadd beatles
+usermod -a -G beatles george
+usermod -G beatles john
+usermod -G beatles paul
+usermod -G wings paul
+shutdown

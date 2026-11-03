@@ -1,0 +1,6 @@
+root
+root
+mkdir 1960s/revolver 1960s/abbey_road
+mkdir -p 1960s/revolver 1960s/abbey_road
+ls -R
+shutdown
