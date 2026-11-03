@@ -1,0 +1,5 @@
+Please input the test case to run: mat(0,1) = 2026
+mat[1][0] = 24
+mat[1][2] = 10
+0 2026 0
+24 0 10

@@ -1,0 +1,4 @@
+Please input the test case to run: float equal: 1
+float not equal: 0
+double equal: 0
+double not equal: 1

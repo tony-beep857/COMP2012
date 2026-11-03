@@ -1,0 +1,9 @@
+Please input the test case to run: Matrix 1:
+0 0 0
+0 0 0
+Matrix 2:
+5 5 5
+5 5 5
+Matrix 3:
+5 5 5
+5 5 5

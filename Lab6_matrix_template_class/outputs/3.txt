@@ -1,0 +1,8 @@
+Please input the test case to run: After assignment:
+2 2 2
+2 2 2
+2 2 2
+After self-assignment:
+2 2 2
+2 2 2
+2 2 2
