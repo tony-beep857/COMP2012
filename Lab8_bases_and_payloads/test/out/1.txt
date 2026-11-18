@@ -1,0 +1,2 @@
+Beginning of test 1
+End of test 1

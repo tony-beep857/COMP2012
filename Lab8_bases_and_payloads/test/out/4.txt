@@ -1,0 +1,5 @@
+Beginning of test 4
+Payload Van2 has arrived.
+Payload Van1 has arrived.
+Payload Van3 has arrived.
+End of test 4
