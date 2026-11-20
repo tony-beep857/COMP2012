@@ -1,0 +1,4 @@
+pkgname=qt6-declarative
+desc=Classes for QML and JavaScript languages
+pkgver=6.12.0
+depends=qt6-base

@@ -1,0 +1,4 @@
+pkgname=pulseaudio
+desc=A featureful, general-purpose sound server
+pkgver=17.0.0
+conflicts=pipewire

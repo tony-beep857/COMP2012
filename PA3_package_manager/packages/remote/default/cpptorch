@@ -1,0 +1,5 @@
+pkgname=cpptorch
+desc=Open-source machine learning framework for C++.
+pkgver=2.0.12
+conflicts=tensorstream
+depends=numcpp

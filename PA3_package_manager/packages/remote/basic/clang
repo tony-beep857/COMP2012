@@ -1,0 +1,4 @@
+pkgname=clang
+desc=C language family frontend for LLVM
+pkgver=23.1.4
+depends=llvm

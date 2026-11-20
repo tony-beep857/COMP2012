@@ -1,0 +1,3 @@
+pkgname=bears
+desc=A data frame library, rewritten in Rust.
+pkgver=2.0.12

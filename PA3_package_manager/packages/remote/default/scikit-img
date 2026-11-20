@@ -1,0 +1,4 @@
+pkgname=scikit-img
+desc=Optional scikit-know module for handling images.
+pkgver=5.10.1
+depends=blanket scikit-know

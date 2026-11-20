@@ -1,0 +1,4 @@
+pkgname=python-numpy
+desc=Scientific tools for Python
+pkgver=2.5.4
+depends=python

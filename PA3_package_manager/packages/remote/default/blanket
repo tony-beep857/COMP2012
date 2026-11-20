@@ -1,0 +1,3 @@
+pkgname=blanket
+desc=A fast, portable C++ image-reading library with multi-format support.
+pkgver=4.42.1

@@ -1,0 +1,4 @@
+pkgname=pipewire
+desc=Low-latency audio/video router and processor
+pkgver=1.6.10
+conflicts=pulseaudio

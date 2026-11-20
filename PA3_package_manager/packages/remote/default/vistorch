@@ -1,0 +1,5 @@
+pkgname=vistorch
+desc=Various image transformation layers and utilities for the cpptorch platform.
+pkgver=4.47.1
+depends=cpptorch blanket
+conflicts=scikit-img

@@ -1,0 +1,3 @@
+pkgname=llvm
+desc=Compiler infrastructure
+pkgver=23.1.4

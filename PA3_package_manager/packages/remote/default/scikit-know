@@ -1,0 +1,4 @@
+pkgname=scikit-know
+desc=Simple, powerful tools for effective data analysis.
+pkgver=1.0.23
+depends=numcpp bears

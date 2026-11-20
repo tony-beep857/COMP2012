@@ -1,0 +1,12 @@
+linux
+linux-headers
+clang
+llvm
+python
+python-numpy
+qt
+qt6-base
+qt6-declarative
+plasma-meta
+pipewire
+pulseaudio

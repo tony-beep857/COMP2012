@@ -1,0 +1,5 @@
+pkgname=tensorstream
+desc=A tensor computation library for C++.
+pkgver=1.0.0
+depends=numcpp octplotlib
+conflicts=cpptorch

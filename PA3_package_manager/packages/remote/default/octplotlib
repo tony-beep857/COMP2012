@@ -1,0 +1,3 @@
+pkgname=octplotlib
+desc=A C++ interactive plotting library inspired by GNU Octave.
+pkgver=2.7.1

@@ -1,0 +1,4 @@
+pkgname=plasma-meta
+desc=Meta package to install KDE Plasma
+pkgver=6.8.0
+depends=qt

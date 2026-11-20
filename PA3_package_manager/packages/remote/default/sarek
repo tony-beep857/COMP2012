@@ -1,0 +1,5 @@
+pkgname=sarek
+desc=An abstraction layer for ML models built on top of tensorstream, optimized for ease of use.
+pkgver=4.21.1
+depends=tensorstream
+conflicts=scikit-img

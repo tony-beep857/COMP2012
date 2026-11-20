@@ -1,0 +1,4 @@
+pkgname=qt
+desc=A meta package for the Qt toolkit
+pkgver=6.12.0
+depends=qt6-base qt6-declarative
