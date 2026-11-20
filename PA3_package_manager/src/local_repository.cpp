@@ -57,7 +57,6 @@ const std::string target = name;
     unlink(dep, target);
   }
 
-  reverse_depends.erase(target);
   packages.erase(target);
 }
 

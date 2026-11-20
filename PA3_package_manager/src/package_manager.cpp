@@ -187,8 +187,8 @@ std::size_t PackageManager::prune() {
 
     for (const Package* pkg : local.list()) {
       const std::string& name = pkg->get_name();
-      if (local.is_explicit(name) == false && local.dependents(name).empty()) {
-        to_remove.push_back(name);
+      if (local.is_explicit(pkg->get_name()) == false && local.dependents(pkg->get_name()).empty()) {
+          to_remove.push_back(name);
       }
     }
 
